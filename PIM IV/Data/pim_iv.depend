@@ -1,0 +1,391 @@
+# depslib dependency file v1.0
+1669074649 source:c:\users\g00hu\documents\pim_iv\incricao_paciente.c
+	<stdio.h>
+	<stdbool.h>
+	"misctools.h"
+
+1669075026 c:\users\g00hu\documents\pim_iv\misctools.h
+
+1669081918 source:c:\users\g00hu\documents\pim_iv\misctools.c
+	"misctools.h"
+	<stdio.h>
+
+1669118554 source:c:\users\g00hu\documents\pim_iv\inscricao_paciente.c
+	<stdio.h>
+	<stdbool.h>
+	"misctools.h"
+	"inscricao_paciente.h"
+
+1669081905 source:c:\users\g00hu\documents\pim_iv\login.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"misctools.h"
+	"inscricao_paciente.h"
+	"login.h"
+
+1669075950 c:\users\g00hu\documents\pim_iv\inscricao_paciente.c
+	<stdio.h>
+	<stdbool.h>
+	"misctools.h"
+	"inscricao_paciente.h"
+
+1669117469 source:c:\users\g00hu\documents\pim_iv\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"register.h"
+	"login.h"
+
+1669074938 c:\users\g00hu\documents\pim_iv\register.c
+	<stdio.h>
+	<stdlib.h>
+	"login.c"
+	"misctools.h"
+
+1669074818 c:\users\g00hu\documents\pim_iv\login.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"misctools.h"
+	"inscricao_paciente.c"
+
+1669075771 source:c:\users\g00hu\documents\pim_iv\register.c
+	<stdio.h>
+	<stdlib.h>
+	"login.h"
+	"misctools.h"
+	"register.h"
+
+1669075826 c:\users\g00hu\documents\pim_iv\register.h
+
+1669075821 c:\users\g00hu\documents\pim_iv\login.h
+
+1669120488 c:\users\g00hu\documents\pim_iv\inscricao_paciente.h
+
+1669142712 source:c:\users\samig\desktop\pim_iv\pim_iv\login.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"misctools.h"
+	"inscricao_paciente.h"
+	"login.h"
+
+1669075028 c:\users\samig\desktop\pim_iv\pim_iv\misctools.h
+
+1669120490 c:\users\samig\desktop\pim_iv\pim_iv\inscricao_paciente.h
+
+1669075822 c:\users\samig\desktop\pim_iv\pim_iv\login.h
+
+1669117470 source:c:\users\samig\desktop\pim_iv\pim_iv\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"register.h"
+	"login.h"
+
+1669075828 c:\users\samig\desktop\pim_iv\pim_iv\register.h
+
+1669138758 source:c:\users\samig\desktop\pim_iv\pim_iv\inscricao_paciente.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"misctools.h"
+	"inscricao_paciente.h"
+
+1669140080 source:c:\users\samig\desktop\pim_iv\pim_iv\misctools.c
+	"misctools.h"
+	<stdio.h>
+
+1669141023 source:c:\users\samig\desktop\pim_iv\pim_iv\register.c
+	<stdio.h>
+	<stdlib.h>
+	"login.h"
+	"misctools.h"
+	"register.h"
+
+1669167637 source:c:\users\g00hu\desktop\pim_iv\pim_iv\inscricao_paciente.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"misctools.h"
+	"inscricao_paciente.h"
+
+1669075028 c:\users\g00hu\desktop\pim_iv\pim_iv\misctools.h
+
+1669120490 c:\users\g00hu\desktop\pim_iv\pim_iv\inscricao_paciente.h
+
+1669166775 source:c:\users\g00hu\desktop\pim_iv\pim_iv\login.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"misctools.h"
+	"inscricao_paciente.h"
+	"login.h"
+
+1669166595 c:\users\g00hu\desktop\pim_iv\pim_iv\login.h
+
+1669143538 source:c:\users\g00hu\desktop\pim_iv\pim_iv\misctools.c
+	"misctools.h"
+	<stdio.h>
+
+1669143324 source:c:\users\g00hu\desktop\pim_iv\pim_iv\register.c
+	<stdio.h>
+	<stdlib.h>
+	"login.h"
+	"misctools.h"
+	"register.h"
+
+1669075828 c:\users\g00hu\desktop\pim_iv\pim_iv\register.h
+
+1669143683 source:c:\users\g00hu\desktop\pim_iv\pim_iv\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"register.h"
+	"login.h"
+
+1669167736 source:c:\users\samig\desktop\pim patch 23.11\pim_iv\pim_iv\inscricao_paciente.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"misctools.h"
+	"inscricao_paciente.h"
+
+1669075028 c:\users\samig\desktop\pim patch 23.11\pim_iv\pim_iv\misctools.h
+
+1669120490 c:\users\samig\desktop\pim patch 23.11\pim_iv\pim_iv\inscricao_paciente.h
+
+1669166776 source:c:\users\samig\desktop\pim patch 23.11\pim_iv\pim_iv\login.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"misctools.h"
+	"inscricao_paciente.h"
+	"login.h"
+
+1669166596 c:\users\samig\desktop\pim patch 23.11\pim_iv\pim_iv\login.h
+
+1669143684 source:c:\users\samig\desktop\pim patch 23.11\pim_iv\pim_iv\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+	"register.h"
+	"login.h"
+
+1669075828 c:\users\samig\desktop\pim patch 23.11\pim_iv\pim_iv\register.h
+
+1669143540 source:c:\users\samig\desktop\pim patch 23.11\pim_iv\pim_iv\misctools.c
+	"misctools.h"
+	<stdio.h>
+
+1669213492 source:c:\users\samig\desktop\pim patch 23.11\pim_iv\pim_iv\register.c
+	<stdio.h>
+	<stdlib.h>
+	"login.h"
+	"misctools.h"
+	"register.h"
+
+1669424316 source:c:\users\g00hu\desktop\pim patch 23.11 2.0\pim patch 23.11\pim_iv\pim_iv\inscricao_paciente.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"misctools.h"
+	"inscricao_paciente.h"
+
+1669294549 c:\users\g00hu\desktop\pim patch 23.11 2.0\pim patch 23.11\pim_iv\pim_iv\misctools.h
+
+1669120490 c:\users\g00hu\desktop\pim patch 23.11 2.0\pim patch 23.11\pim_iv\pim_iv\inscricao_paciente.h
+
+1669585798 source:c:\users\g00hu\desktop\pim patch 23.11 2.0\pim patch 23.11\pim_iv\pim_iv\login.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"misctools.h"
+	"inscricao_paciente.h"
+	"login.h"
+
+1669582738 c:\users\g00hu\desktop\pim patch 23.11 2.0\pim patch 23.11\pim_iv\pim_iv\login.h
+
+1669505756 source:c:\users\g00hu\desktop\pim patch 23.11 2.0\pim patch 23.11\pim_iv\pim_iv\main.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+	<locale.h>
+
+1669075828 c:\users\g00hu\desktop\pim patch 23.11 2.0\pim patch 23.11\pim_iv\pim_iv\register.h
+
+1669585476 source:c:\users\g00hu\desktop\pim patch 23.11 2.0\pim patch 23.11\pim_iv\pim_iv\misctools.c
+	"misctools.h"
+	<stdio.h>
+	<stdbool.h>
+	<windows.h>
+
+1669505894 source:c:\users\g00hu\desktop\pim patch 23.11 2.0\pim patch 23.11\pim_iv\pim_iv\register.c
+	<stdio.h>
+	<stdlib.h>
+	"login.h"
+	"misctools.h"
+	"register.h"
+
+1669505594 c:\users\g00hu\desktop\pim patch 23.11 2.0\pim patch 23.11\pim_iv\pim_iv\menu.h
+
+1669505576 source:c:\users\g00hu\desktop\pim patch 23.11 2.0\pim patch 23.11\pim_iv\pim_iv\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"register.h"
+	"login.h"
+	"menu.h"
+
+1669585800 source:c:\users\samig\documents\projetoc\pim_iv patch 27.11\login.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"misctools.h"
+	"inscricao_paciente.h"
+	"login.h"
+
+1669587516 c:\users\samig\documents\projetoc\pim_iv patch 27.11\misctools.h
+
+1669120490 c:\users\samig\documents\projetoc\pim_iv patch 27.11\inscricao_paciente.h
+
+1669582740 c:\users\samig\documents\projetoc\pim_iv patch 27.11\login.h
+
+1669505758 source:c:\users\samig\documents\projetoc\pim_iv patch 27.11\main.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+	<locale.h>
+
+1669505596 c:\users\samig\documents\projetoc\pim_iv patch 27.11\menu.h
+
+1669505578 source:c:\users\samig\documents\projetoc\pim_iv patch 27.11\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"register.h"
+	"login.h"
+	"menu.h"
+
+1669075828 c:\users\samig\documents\projetoc\pim_iv patch 27.11\register.h
+
+1669505896 source:c:\users\samig\documents\projetoc\pim_iv patch 27.11\register.c
+	<stdio.h>
+	<stdlib.h>
+	"login.h"
+	"misctools.h"
+	"register.h"
+
+1669587490 source:c:\users\samig\documents\projetoc\data\inscricao_paciente.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"misctools.h"
+	"inscricao_paciente.h"
+
+1669587516 c:\users\samig\documents\projetoc\data\misctools.h
+
+1669120490 c:\users\samig\documents\projetoc\data\inscricao_paciente.h
+
+1669585800 source:c:\users\samig\documents\projetoc\data\login.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"misctools.h"
+	"inscricao_paciente.h"
+	"login.h"
+
+1669582740 c:\users\samig\documents\projetoc\data\login.h
+
+1669505758 source:c:\users\samig\documents\projetoc\data\main.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+	<locale.h>
+
+1669505596 c:\users\samig\documents\projetoc\data\menu.h
+
+1669505578 source:c:\users\samig\documents\projetoc\data\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"register.h"
+	"login.h"
+	"menu.h"
+
+1669075828 c:\users\samig\documents\projetoc\data\register.h
+
+1669505896 source:c:\users\samig\documents\projetoc\data\register.c
+	<stdio.h>
+	<stdlib.h>
+	"login.h"
+	"misctools.h"
+	"register.h"
+
+1669589452 source:c:\users\samig\documents\projetoc\data\misctools.c
+	"misctools.h"
+	<stdio.h>
+	<stdbool.h>
+	<windows.h>
+
+1669637393 source:c:\users\g00hu\downloads\pimb\pim iv\data\inscricao_paciente.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	"misctools.h"
+	"inscricao_paciente.h"
+
+1669660126 c:\users\g00hu\downloads\pimb\pim iv\data\misctools.h
+
+1669637393 c:\users\g00hu\downloads\pimb\pim iv\data\inscricao_paciente.h
+
+1669637393 source:c:\users\g00hu\downloads\pimb\pim iv\data\login.c
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	"misctools.h"
+	"inscricao_paciente.h"
+	"login.h"
+
+1669637394 c:\users\g00hu\downloads\pimb\pim iv\data\login.h
+
+1669637394 source:c:\users\g00hu\downloads\pimb\pim iv\data\main.c
+	<stdio.h>
+	<stdlib.h>
+	"menu.h"
+	<locale.h>
+
+1669637394 c:\users\g00hu\downloads\pimb\pim iv\data\menu.h
+
+1669637394 source:c:\users\g00hu\downloads\pimb\pim iv\data\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"register.h"
+	"login.h"
+	"menu.h"
+
+1669637394 c:\users\g00hu\downloads\pimb\pim iv\data\register.h
+
+1669637394 source:c:\users\g00hu\downloads\pimb\pim iv\data\register.c
+	<stdio.h>
+	<stdlib.h>
+	"login.h"
+	"misctools.h"
+	"register.h"
+
+1669660149 source:c:\users\g00hu\downloads\pimb\pim iv\data\misctools.c
+	<windows.h>
+	<sys/stat.h>
+	<sys/types.h>
+	"misctools.h"
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<string.h>
+
